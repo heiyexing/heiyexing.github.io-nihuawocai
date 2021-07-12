@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.item {
+  height: 100vh;
+}
+
+.top {
+  line-height: 2rem;
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0.3rem;
+}
+
+.center {
+  height: calc(100% - 2.6rem);
+  font-size: 9rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

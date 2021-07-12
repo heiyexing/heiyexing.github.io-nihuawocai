@@ -1,0 +1,208 @@
+[
+  {
+    "type": "阿里",
+    "text": "百阿",
+    "score": 2
+  },
+  {
+    "type": "阿里",
+    "text": "淘宝",
+    "score": 2
+  },
+  {
+    "type": "阿里",
+    "text": "天猫",
+    "score": 2
+  },
+  {
+    "type": "阿里",
+    "text": "蚂蚁金服",
+    "score": 2
+  },
+  {
+    "type": "阿里",
+    "text": "阿里云",
+    "score": 2
+  },
+  {
+    "type": "网络名言",
+    "text": "我只会心疼giegie",
+    "length": 7,
+    "score": 3
+  },
+  {
+    "type": "网络名言",
+    "text": "小丑竟是我自己",
+    "score": 3
+  },
+  {
+    "type": "梗",
+    "text": "黑人抬棺",
+    "score": 3
+  },
+  {
+    "type": "网络名言",
+    "text": "三點幾，飲茶先啦",
+    "score": 3
+  },
+  {
+    "type": "现象",
+    "text": "内卷",
+    "score": 3
+  },
+  {
+    "type": "现象",
+    "text": "996",
+    "score": 2
+  },
+  {
+    "type": "梗",
+    "text": "我从来没碰过钱，我对钱没有兴趣",
+    "score": 4
+  },
+  {
+    "type": "成语",
+    "text": "狗急跳墙",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "对牛弹琴",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "盲人摸象",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "三长二短",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "打草惊蛇",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "一手遮天",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "走马观花",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "背水一战",
+    "score": 2
+  },
+  {
+    "type": "成语",
+    "text": "刻舟求剑",
+    "score": 2
+  },
+  {
+    "type": "食物",
+    "text": "茄子",
+    "score": 1
+  },
+  {
+    "type": "食物",
+    "text": "汉堡",
+    "score": 1
+  },
+  {
+    "type": "电影",
+    "text": "功守道",
+    "score": 3
+  },
+  {
+    "type": "电影",
+    "text": "钢铁侠",
+    "score": 2
+  },
+  {
+    "type": "电影",
+    "text": "哈利波特",
+    "score": 2
+  },
+  {
+    "type": "游戏",
+    "text": "王者荣耀",
+    "score": 2
+  },
+  {
+    "type": "游戏",
+    "text": "吃鸡",
+    "score": 2
+  },
+  {
+    "type": "人",
+    "text": "言果",
+    "score": 3
+  },
+  {
+    "type": "人",
+    "text": "杜甫",
+    "score": 2
+  },
+  {
+    "type": "人",
+    "text": "李白",
+    "score": 2
+  },
+  {
+    "type": "角色",
+    "text": "开发",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "牛蛙",
+    "score": 2
+  },
+  {
+    "type": "动物",
+    "text": "草泥马",
+    "score": 2
+  },
+  {
+    "type": "动物",
+    "text": "长颈鹿",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "蜜蜂",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "大象",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "狗",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "猫",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "鲨鱼",
+    "score": 1
+  },
+  {
+    "type": "动物",
+    "text": "蚊子",
+    "score": 1
+  }
+]
