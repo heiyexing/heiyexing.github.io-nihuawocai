@@ -8,8 +8,8 @@ function QuestionItem({ data }: any) {
     <div className="item">
       <div className="top">
         <span>类型：{data.type}</span>
-        <span>长度：{data.length ?? data.text.length}</span>
         <span>分值：{data.score}分</span>
+        <span>长度：{data.length ?? data.text.length}</span>
       </div>
       <div className="center">{data.text}</div>
     </div>
