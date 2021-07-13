@@ -30,6 +30,8 @@ function App() {
     []
   );
 
+  console.log(data.length);
+
   return (
     <div className="App">
       <WingBlank>
